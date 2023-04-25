@@ -33,7 +33,7 @@ chmod +x iptable.sh script
 sudo ./iptable.sh
 
 # Run the xray installer with WS
-chmod +x ./xray/ws.sh
+chmod +x ./xrays/ws.sh
 sudo ./xrays/ws.sh
 
 # Run the iptable.sh script
