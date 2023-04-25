@@ -25,15 +25,15 @@ chmod +x disable-nginx.sh
 sudo ./disable-nginx.sh
 
 # Run the block-torrent.sh script
-chmod +x block-torrent.sh
-sudo ./block-torrent.sh
+#chmod +x block-torrent.sh
+#sudo ./block-torrent.sh
 
 # Run the iptable.sh script
 chmod +x iptable.sh script
 sudo ./iptable.sh
 
 # Run the xray installer with WS
-chmod +x /xray/ws.sh
+chmod +x ./xray/ws.sh
 sudo ./xray/ws.sh
 
 # Run the iptable.sh script
